@@ -1,0 +1,101 @@
+.header-bg {
+    width: 100vw;
+    height: 285px;
+    gap: 0px;
+    background-color: #0c0c0c;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .header-heading {
+    font-family: Comme;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28.34px;
+    letter-spacing: 0.55em;
+    text-align: left;
+    color: #e5dfd9;
+  }
+  .header-icon-bg {
+    width: 161px;
+    height: 24px;
+    top: 21px;
+    left: 1093px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .header-icon {
+    font-family: Font Awesome 5 Pro;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+    color: #e5dfd9;
+  }
+  .heading-icon-bg {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 95%;
+  }
+  .tabs-list {
+    width: 472px;
+    height: 18px;
+    top: 69px;
+    left: 404px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    margin-bottom: 60px;
+  }
+  .tab-item {
+    font-family: Encode Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17.5px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    color: #e5dfd9;
+  }
+  .filter-options-bg {
+    width: 90%;
+    height: Hug (130px) px;
+    top: 137px;
+    left: 32px;
+    background-color: #0c0c0c;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .category-bg {
+    width: 90px;
+    height: 124px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .filter-option {
+    width: 42.66px;
+    height: 63.9px;
+    top: 22.68px;
+    left: 2.34px;
+    color: #ffffff;
+  }
+  .filter-heading {
+    font-family: Encode Sans;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 16.25px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    color: #e5dfd9;
+  }
+  

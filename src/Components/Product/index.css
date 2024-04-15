@@ -1,0 +1,46 @@
+.product-bg {
+    width: 100vw;
+    height: auto;
+    background-color: #0c0c0c;
+  }
+  
+  .product-grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: auto;
+  }
+  .bag-details {
+    width: 1400px;
+    height: 20px;
+    padding-left: 60px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .bag-heading {
+    font-family: Encode Sans;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    color: #e5dfd9;
+  }
+  .bag-icon {
+    width: 16.67px;
+    height: 20px;
+    top: 299px;
+    left: 1230px;
+    gap: 0px;
+    border: 2px 0px 0px 0px;
+    color: #e5dfd9;
+  }
+  .total-bags {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 120px;
+  }
+  
