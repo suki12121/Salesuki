@@ -75,8 +75,6 @@
   .category-bg {
     width: 90px;
     height: 124px;
-    gap: 0px;
-    opacity: 0px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
